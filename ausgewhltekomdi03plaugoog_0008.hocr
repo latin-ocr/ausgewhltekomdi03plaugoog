@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "ausgewhltekomdi03plaugoog_0008.png"; bbox 0 0 2836 4448; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 270 369 1088 517">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 270 369 1088 517">
+     <span class='ocr_line' id='line_1_1' title="bbox 270 369 1088 517; baseline -0.092 -65"><span class='ocrx_word' id='word_1_1' title='bbox 270 447 272 453; x_wconf 10' lang='grc' dir='ltr'><em>Α</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 337 369 756 514; x_wconf 54' lang='lat' dir='ltr'>AUSGEWJQHLTE</span> <span class='ocrx_word' id='word_1_3' title='bbox 790 375 1088 517; x_wconf 62' lang='lat' dir='ltr'><strong>KOMODOEN</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 168 939 1246 1124">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 131 939 1246 1124">
+     <span class='ocr_line' id='line_1_2' title="bbox 168 939 1246 1124; baseline 0.008 -8.701"><span class='ocrx_word' id='word_1_4' title='bbox 168 945 232 1118; x_wconf 86' lang='lat' dir='ltr'><strong>T.</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 296 939 712 1123; x_wconf 79' lang='lat' dir='ltr'><strong>MACCIUS</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 772 945 1246 1124; x_wconf 79' lang='lat' dir='ltr'><strong>PLAUTUS.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 470 1882 949 1977">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 470 1882 949 1977">
+     <span class='ocr_line' id='line_1_3' title="bbox 470 1882 949 1977; baseline 0.004 -4"><span class='ocrx_word' id='word_1_7' title='bbox 470 1882 576 1977; x_wconf 67' lang='grc' dir='ltr'><strong>ΑΗΘ.</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 604 1882 641 1976; x_wconf 84' lang='grc'><strong>0.</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 669 1883 738 1975; x_wconf 83' lang='lat' dir='ltr'><strong>FR.</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 765 1882 949 1976; x_wconf 85' lang='lat' dir='ltr'><strong>LORENZ.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1422 4448">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1422 4448">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1422 4448; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 0 0 1422 4448; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
